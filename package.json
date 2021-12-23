@@ -1,0 +1,11 @@
+{
+  "name": "JavaScript-pro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codehzy/JavaScript-pro.git",
+  "author": "hzy <1257664828@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.1"
+  }
+}

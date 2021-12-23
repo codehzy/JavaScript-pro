@@ -2,6 +2,7 @@
 
 # 提交源代码到远程分支
 git push git@github.com:codehzy/JavaScript-pro.git master
+git push git@gitee.com:codehzy/JavaScript-pro.git master
 
 # 确保脚本抛出遇到的错误
 set -e
@@ -18,5 +19,6 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:codehzy/JavaScript-pro.git master:gh-pages
+git push -f git@gitee.com:codehzy/JavaScript-pro.git master:gh-pages
 
 cd -
